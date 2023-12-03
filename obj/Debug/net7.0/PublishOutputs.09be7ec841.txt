@@ -1,0 +1,5 @@
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/publish/telePars
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/publish/telePars.dll
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/publish/telePars.deps.json
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/publish/telePars.runtimeconfig.json
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/publish/telePars.pdb

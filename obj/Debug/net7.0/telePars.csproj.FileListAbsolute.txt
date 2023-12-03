@@ -1,0 +1,15 @@
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/telePars
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/telePars.deps.json
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/telePars.runtimeconfig.json
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/telePars.dll
+/home/matthew/Документы/source/telePars/bin/Debug/net7.0/telePars.pdb
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.csproj.AssemblyReference.cache
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.GeneratedMSBuildEditorConfig.editorconfig
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.AssemblyInfoInputs.cache
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.AssemblyInfo.cs
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.csproj.CoreCompileInputs.cache
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.dll
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/refint/telePars.dll
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.pdb
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/telePars.genruntimeconfig.cache
+/home/matthew/Документы/source/telePars/obj/Debug/net7.0/ref/telePars.dll
